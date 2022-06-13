@@ -1,0 +1,10 @@
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: darkgray;
+}
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
